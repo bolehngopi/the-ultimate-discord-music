@@ -13,4 +13,11 @@ Hi welcome to my first JavaScript repository!
 -  https://dbd.leref.ga/guide/begin
 </details>
 
+
+
+<details>
+<summary>My bot</summary>
+-  Not being in top.gg 
+</details>
+
 ***

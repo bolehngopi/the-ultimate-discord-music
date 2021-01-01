@@ -1,8 +1,9 @@
-const dbd = require("dbd.js")
+const dbd = require("dbd.js");
+const { token, prefix } = require("./config.json");
  
 const bot = new dbd.Bot({
-token: "Your Token", 
-prefix: ">" 
+token: token, 
+prefix: prefix
 })
  
 bot.onMessage()

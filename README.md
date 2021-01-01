@@ -21,7 +21,7 @@ Not yet now :)
 <details>
 <summary>More Info</summary>
 
--  [guide](https://dbd.leref.ga/guide/begin)
+-  [`guide`](https://dbd.leref.ga/guide/begin)
 </details>
 
 <details>

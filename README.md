@@ -19,11 +19,13 @@ Hi welcome to my first JavaScript repository!
 
 <details>
 <summary>More Info</summary>
--  https://dbd.leref.ga/guide/begin
+
+-  [guide](https://dbd.leref.ga/guide/begin)
 </details>
 
 <details>
 <summary>How to add another command</summary>
+
 1. Go to `commands` folder
 
 2. Go to `other` folder

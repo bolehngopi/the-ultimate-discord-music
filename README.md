@@ -3,7 +3,7 @@
 Hi welcome to my first JavaScript repository!
 
 ### Setup
--  Go to server.js 
+-  Go to `server.js` file
 -  Change prefix and change token
 
 ### Features

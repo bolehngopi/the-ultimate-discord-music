@@ -42,7 +42,6 @@ code: `$setServerVar[deletedIcon;$userAvatar]
 $setServerVar[deletedAuthor;$username#$discriminator[$authorID]]
 $setServerVar[deletedMessage;$message]`
 })
-
 bot.onMessageDelete()
 
 bot.variables({

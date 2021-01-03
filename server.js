@@ -19,7 +19,7 @@ for (const commands of folder) {
 const command = require(`./commands/${files}/${commands}`) 
 bot.command({
 name: command.name,
-aliases: commands.name,
+aliases: commands.aliases,
 code: command.code
 })
 } 

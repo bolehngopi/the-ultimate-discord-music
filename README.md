@@ -13,7 +13,7 @@ Hi welcome to my first JavaScript repository!
 -  Other
 
 ### Vote My Bot
-Not yet now, maybe later :)
+[`My bot`](https://top.gg/bot/653227663695151114)
 
 
 ***

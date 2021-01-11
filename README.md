@@ -4,7 +4,8 @@ Hi welcome to my first JavaScript repository!
 
 ### Setup
 -  Go to `config.json` file
--  Change prefix and change token
+-  Change prefix
+-  Dont forget to change the token in `.env.example` and rename it to `.env`
 -  And done!
 -  If you have a problem just DM to my discord `BolehNgopi#0062`
 

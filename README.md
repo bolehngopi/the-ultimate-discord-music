@@ -36,7 +36,7 @@ Hi welcome to my first JavaScript repository!
 
 4. And insert the code to there 
 
-Example:
+Code:
 ```js
 bot.command({
 name: "your_bot_trigger",

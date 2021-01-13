@@ -3,7 +3,7 @@ const { token, prefix } = require("./config.json");
  
 const bot = new dbd.Bot({
 token: process.env.TOKEN, 
-prefix: prefix
+prefix: "prefix"
 })
  
 bot.onMessage()

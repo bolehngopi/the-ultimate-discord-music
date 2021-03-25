@@ -51,5 +51,5 @@ code: `code goes here`
 This repo is use:
 -  [![Library DBD.js](https://img.shields.io/badge/Library-DBD.js-blue)](https://www.npmjs.com/package/dbd.js)
 -  [![Library DBD.express](https://img.shields.io/badge/Library-DBD.express-red)](https://www.npmjs.com/package/dbd.express)
--  [![Library dbd.js-utils](https://img.shields.io/badge/Library-dbd.js-utils-purple)](https://www.npmjs.com/package/dbd.js-utils)
+-  [![Library dbd.js-utils](https://img.shields.io/badge/Library-dbd.jsutils-purple)](https://www.npmjs.com/package/dbd.js-utils)
 

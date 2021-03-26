@@ -13,6 +13,6 @@
     "license": "ISC",
     "dependencies": {
       "dbd.js": "^2.2.6",
-      "workerpool": "6.1.0"
+      "workerpool": "6.1.2"
     }
   }

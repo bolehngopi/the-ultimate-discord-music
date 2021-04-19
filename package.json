@@ -12,7 +12,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "dbd.js": "^2.2.6",
+      "dbd.js": "^3.0.5",
       "workerpool": "6.1.2"
     }
   }

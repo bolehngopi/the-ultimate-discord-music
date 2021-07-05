@@ -1,4 +1,4 @@
-const dbd = require("dbd.js");
+const dbd = require("aoi.js");
 const { token, prefix } = require("./config.json");
  
 const bot = new dbd.Bot({

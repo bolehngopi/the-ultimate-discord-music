@@ -13,6 +13,6 @@
     "license": "ISC",
     "dependencies": {
       "aoi.js": "^4.0.0",
-      "workerpool": "6.1.2"
+      "workerpool": "6.2.0"
     }
   }

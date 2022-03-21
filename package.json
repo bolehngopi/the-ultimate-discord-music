@@ -12,7 +12,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "aoi.js": "^4.0.0",
+      "aoi.js": "^5.1.1",
       "workerpool": "6.1.2"
     }
   }
